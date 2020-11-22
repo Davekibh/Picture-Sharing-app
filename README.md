@@ -1,5 +1,7 @@
 # Picture-Sharing-app
 
+### Open Innovation Project!!!
+
 ### What is this app all about?
 
 Interactive UI , with ease of use.
