@@ -17,4 +17,6 @@ I have used Back4app Database to store it in the Database.
 
 To run this app fork or download , open it in android Studio and run the app.
 
+Just run this program and see the magic!
+
 Happy coding..... :)
